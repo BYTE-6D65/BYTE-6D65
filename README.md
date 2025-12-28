@@ -1,16 +1,54 @@
-## Hi there 👋
+```text
+      |\      _,,,---,,_
+ZZZzz /,`.-'`'    -.  ;-;;,_
+     |,4-  ) )-,_. ,\ (  `'-'
+    '---''(_/--'  `-'\_)
+```
 
-<!--
-**BYTE-6D65/BYTE-6D65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# BYTE__6D65
 
-Here are some ideas to get you started:
+> *Not a web dev. Not embedded.*
+> *Just a nerd with a keyboard and too many ideas.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a student, still poking at the edges of things.
+I tend to drift away from neat categories and toward whatever feels interesting that week.
+
+If there’s a theme here, it’s probably **user-space systems**, **data playgrounds**, and tools that exist because I wanted to see what would happen.
+
+---
+
+## Observations
+
+I treat GitHub less like a résumé and more like a sketchbook.
+
+Some repos are experiments.
+Some are scaffolding.
+Some are “this seemed like a good idea at 2am”.
+
+They’re all attempts to understand systems by touching them.
+
+---
+
+## The Workshop
+
+| Tool                 | How it usually goes                |
+| :------------------- | :--------------------------------- |
+| **Go**               | Trying to impose order on chaos    |
+| **TypeScript / TSX** | Curiosity, mild regret, repeat     |
+| **Shell**            | Where I learn what *not* to type   |
+| **Markdown**         | Notes, thoughts, half-formed ideas |
+
+---
+
+## Biases (subject to change)
+
+* prefer understanding over polish
+* suspicious of shiny abstractions
+* interested in constraints
+* easily distracted by strange systems
+
+---
+
+No roadmap.
+No guarantees.
+Proceed with curiosity.
